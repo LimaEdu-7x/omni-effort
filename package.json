@@ -1,0 +1,27 @@
+{
+  "name": "omni-effort",
+  "version": "1.0.0",
+  "description": "Brazilian AI skill for adaptive effort: classifies each task (low, medium, high), picks model and subagents, and decides when to /compact or /clear, with Maestri teammate support.",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "skill",
+    "agent-skill",
+    "brazil",
+    "effort",
+    "model-routing",
+    "subagents",
+    "claude",
+    "maestri",
+    "context-management"
+  ],
+  "author": "LimaEdu-7x",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimaEdu-7x/omni-effort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LimaEdu-7x/omni-effort/issues"
+  },
+  "homepage": "https://github.com/LimaEdu-7x/omni-effort#readme"
+}
